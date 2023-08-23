@@ -2,7 +2,7 @@
 Name: UDAYAKUMAR R
 Reg No: 212222230163
 ```
-# Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
+# Experiment 01 INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
 ## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
 ## Components required: STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
 ## Theory 

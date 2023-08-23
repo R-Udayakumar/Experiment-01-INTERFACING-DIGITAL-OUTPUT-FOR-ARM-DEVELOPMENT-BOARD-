@@ -180,11 +180,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 ```
 
-## Output  :
- <img src="https://github.com/R-Udayakumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118708024/288b7495-a8ad-4dc0-82e8-b302c4b5945f" width=475 height=475>
+## Output  : 
 
+<img src="https://github.com/R-Udayakumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118708024/288b7495-a8ad-4dc0-82e8-b302c4b5945f" width=475 height=475> .
 
-. <img src="https://github.com/R-Udayakumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118708024/b478a539-98c9-4db2-bd0f-64205d71b478" width=475 height=475>
+.. <img src="https://github.com/R-Udayakumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118708024/b478a539-98c9-4db2-bd0f-64205d71b478" width=475 height=475>
  
 
  

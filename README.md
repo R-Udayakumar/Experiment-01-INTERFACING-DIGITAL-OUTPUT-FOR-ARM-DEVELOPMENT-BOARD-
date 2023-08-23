@@ -1,6 +1,8 @@
+```
+Name: UDAYAKUMAR R
+Reg No: 212222230163
+```
 # Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
- 
-
 ## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
 ## Components required: STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
 ## Theory 
@@ -179,9 +181,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
- ![image](https://github.com/R-Udayakumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118708024/288b7495-a8ad-4dc0-82e8-b302c4b5945f)
+ <img src="https://github.com/R-Udayakumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118708024/288b7495-a8ad-4dc0-82e8-b302c4b5945f" width=475 height=475>
+
+
+. <img src="https://github.com/R-Udayakumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118708024/b478a539-98c9-4db2-bd0f-64205d71b478" width=475 height=475>
  
-![WhatsApp Image 2023-08-16 at 11 56 17](https://github.com/R-Udayakumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118708024/b478a539-98c9-4db2-bd0f-64205d71b478)
 
  
  

@@ -3,8 +3,10 @@ Name: UDAYAKUMAR R
 Reg No: 212222230163
 ```
 # Experiment 01 INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
-## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
-## Components required: STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
+## Aim: 
+To Interface a Digital output (LED) to ARM development board and write a blink code 
+## Components required:
+STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
@@ -35,13 +37,13 @@ The main features of LPC2148 include the following.
  
 
 ## Procedure:
- 1. click on STM 32 CUBE IDE, the following screen will appear 
+ 1. click on STM 32 CUBE IDE, the following screen will appear
  ![image](https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png)
 
- 2. click on FILE, click on new stm 32 project 
+ 3. click on FILE, click on new stm 32 project 
  ![image](https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3.png)
 ![image](https://user-images.githubusercontent.com/36288975/226189230-bf2d90dd-9695-4aaf-b2a6-6d66454e81fc.png)
-3. select the target to be programmed  as shown below and click on next 
+4. select the target to be programmed  as shown below and click on next 
 
 ![image](https://user-images.githubusercontent.com/36288975/226189280-ed5dcf1d-dd8d-43ae-815d-491085f4863b.png)
 
@@ -74,10 +76,6 @@ The main features of LPC2148 include the following.
 
 12. connect the stm nucleo board and click on run 
 ![image](https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png)
-
-
-
-
 
 
 ## STM 32 CUBE PROGRAM :

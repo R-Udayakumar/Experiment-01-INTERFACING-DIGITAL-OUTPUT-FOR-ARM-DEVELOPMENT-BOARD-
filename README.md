@@ -3,9 +3,9 @@ Name: UDAYAKUMAR R
 Reg No: 212222230163
 ```
 # Experiment 01 INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
-## Aim: 
+## Aim : 
 To Interface a Digital output (LED) to ARM development board and write a blink code 
-## Components required:
+## Components required :
 STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
@@ -15,8 +15,8 @@ ARM7 processor is commonly used in embedded system applications. Also, it is a b
 LPC2148 Microcontroller
  The LPC2148 microcontroller is designed by Philips (NXP Semiconductor) with several in-built features & peripherals. Due to these reasons, it will make more reliable as well as the efficient option for an application developer. LPC2148 is a 16-bit or 32-bit microcontroller based on ARM7 family.
 Features of LPC2148
-The main features of LPC2148 include the following.
-•	The LPC2148 is a 16 bit or 32 bit ARM7 family based microcontroller and available in a small LQFP64 package.
+- The main features of LPC2148 include the following.
+•      	The LPC2148 is a 16 bit or 32 bit ARM7 family based microcontroller and available in a small LQFP64 package.
 •	ISP (in system programming) or IAP (in application programming) using on-chip boot loader software.
 •	On-chip static RAM is 8 kB-40 kB, on-chip flash memory is 32 kB-512 kB, the wide interface is 128 bit, or accelerator allows 60 MHz high-speed operation.
 •	It takes 400 milliseconds time for erasing the data in full chip and 1 millisecond time for 256 bytes of programming.
